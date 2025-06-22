@@ -155,7 +155,7 @@ streamlit run personalized_agent.py
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+We welcome contributions! Please see [CONTRIBUTING.md](https://github.com/AmalVinob/Agents/blob/main/LangGraph/Breast%20Cancer%20AI%20Assistant/Contribution.md) for guidelines.
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
