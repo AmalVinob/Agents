@@ -1,0 +1,21 @@
+# Ignore environment files
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+myenv/
+venv/
+
+# Streamlit logs
+.streamlit/
+logs/
+
+# VS Code settings
+.vscode/
+
+# Model and checkpoint files
+*.pt
+*.bin
