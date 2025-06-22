@@ -169,9 +169,9 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## 🙏 Acknowledgments
 
-- **1000 Genomes Project** for providing open genomic data
-- **ClinVar** for variant-disease association database
-- **Kaggle Community** for the breast histopathology dataset
+- **1000 Genomes Project**: The genomic data used in this project is sourced from the 1000 Genomes Project, which is freely available for research purposes. Citation: 1000 Genomes Project Consortium. (2015). A global reference for human genetic variation. *Nature*, 526(7571), 68-74. [https://www.internationalgenome.org/faq/how-use-data/](https://www.internationalgenome.org/faq/how-use-data/)
+- **ClinVar**: Clinical variant data is obtained from ClinVar, governed by NCBI’s terms, and used with proper attribution for research purposes. Citation: National Center for Biotechnology Information. ClinVar [Internet]. Bethesda (MD): National Library of Medicine (US), National Center for Biotechnology Information; [cited 2025-06-22]. Available from: [https://www.ncbi.nlm.nih.gov/clinvar/](https://www.ncbi.nlm.nih.gov/clinvar/)
+- **Kaggle Breast Histopathology Images**: Imaging data is sourced from the Breast Histopathology Images dataset on Kaggle, used under the [insert license, e.g., CC0] license with attribution. Citation: Mooney, Paul. (2019). Breast Histopathology Images. Kaggle. [https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images)
 - **Groq** for high-performance LLM inference
 - **LangGraph** team for the multi-agent framework
 
