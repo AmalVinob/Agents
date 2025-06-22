@@ -42,7 +42,7 @@ Synthesized Report
 
 2. **📋 Clinical History Matching Agent**
    - Analyzes patient demographics and symptoms
-   - Processes family history data
+   - Processes clinical history data
    - Evaluates risk factors and comorbidities
    - Provides clinical context for genomic findings
 
@@ -56,24 +56,21 @@ Synthesized Report
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface]()
 *Multi-agent analysis dashboard showing parallel processing of genomic, imaging, and clinical data*
 
-### Genomic Analysis Results
+### Genomic and ROI Image Analysis 
 ![Genomic Analysis](https://github.com/AmalVinob/Agents/blob/main/LangGraph/Breast%20Cancer%20AI%20Assistant/Screenshot%20(28).png?raw=true)
-*BRCA1/BRCA2 variant analysis with pathogenicity scoring and risk assessment*
-
-### Imaging Analysis
-![Imaging Analysis](screenshots/imaging_analysis.png)
-*CNN-based histopathology image classification with confidence scores*
-
-### Consolidated Report
-![Consolidated Report](screenshots/consolidated_report.png)
-*AI-generated comprehensive diagnostic report with personalized recommendations*
+*BRCA1 variant analysis with pathogenicity scoring and risk assessment*
+*CNN-based histopathology image classification with confidence scores* 
 
 ### Clinical Profile Input
-![Clinical Profile](screenshots/clinical_profile.png)
+![Clinical Profile](https://github.com/AmalVinob/Agents/blob/main/LangGraph/Breast%20Cancer%20AI%20Assistant/Screenshot%20(29).png?raw=true )
 *Patient data input interface for clinical history and demographic information*
+
+### Consolidated Report
+![Consolidated Report](https://github.com/AmalVinob/Agents/blob/main/LangGraph/Breast%20Cancer%20AI%20Assistant/Screenshot%20(30).png?raw=true )
+*AI-generated comprehensive diagnostic report with personalized recommendations*
+
 
 ## 📊 Datasets Used
 
@@ -181,7 +178,7 @@ If you use this work in your research, please cite:
 ```bibtex
 @software{breast_cancer_ai_assistant,
   title={Breast Cancer AI Assistant: Multi-Agent Diagnostic System},
-  author={Your Name},
+  author={Amal Vinob},
   year={2025},
   url={https://github.com/yourusername/breast-cancer-ai-assistant}
 }
