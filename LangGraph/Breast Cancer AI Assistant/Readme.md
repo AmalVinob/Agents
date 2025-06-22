@@ -123,6 +123,17 @@ cp .env.example .env
 # Add your API key to .env file
 GROQ_API_KEY=your_groq_api_key_here
 ```
+
+## How to Run the code
+- CNN/preprocessing
+```bash
+python preprocessing.py
+```
+- Run main/personalized_agent.py
+```bash
+streamlit run personalized_agent.py
+```
+
 ## 🔬 Model Details
 
 ### Genomic Analysis
