@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain_groq
+langchain_community
+IPython
+opencv-python
+python-dotenv
+tensorflow

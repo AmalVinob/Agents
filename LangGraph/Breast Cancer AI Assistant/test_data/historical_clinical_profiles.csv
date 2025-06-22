@@ -1,0 +1,31 @@
+age,gender,family_history,symptoms,prior_illnesses,treatments,outcome
+50,Female,Mother breast cancer,Fatigue,Diabetes,Surgery,Benign
+48,Female,Grandmother breast cancer,None,Thyroid issues,None,Benign
+44,Female,Aunt ovarian cancer,Breast lump,Hypertension,Radiation,Malignant
+72,Female,Aunt ovarian cancer,Fatigue,Hypertension,Chemotherapy,Malignant
+65,Female,Grandmother breast cancer,Pain,Hypertension,Chemotherapy,Benign
+62,Female,None,Fatigue,None,Chemotherapy,Benign
+74,Female,Sister breast cancer,Lump and fatigue,Diabetes,None,Benign
+37,Female,Grandmother breast cancer,Nipple discharge,Asthma,Radiation,Malignant
+41,Female,Mother breast cancer,Nipple discharge,Asthma,None,Benign
+42,Female,Mother breast cancer,Breast lump,Thyroid issues,None,Malignant
+44,Female,None,Skin dimpling,Diabetes,Radiation,Benign
+52,Female,Grandmother breast cancer,Pain,Thyroid issues,Radiation,Malignant
+38,Female,None,None,None,Radiation,Malignant
+48,Female,Father prostate cancer,Lump and fatigue,Hypertension,Hormone therapy,Benign
+55,Female,Sister breast cancer,Pain,Diabetes,Surgery,Malignant
+31,Female,Aunt ovarian cancer,Breast lump,Asthma,Hormone therapy,Malignant
+74,Female,Aunt ovarian cancer,Lump and fatigue,None,None,Malignant
+54,Female,None,Skin dimpling,Diabetes,Hormone therapy,Benign
+43,Female,Mother breast cancer,Fatigue,Asthma,None,Malignant
+40,Female,Sister breast cancer,Swelling,Asthma,Chemotherapy,Benign
+62,Female,Grandmother breast cancer,Fatigue,Thyroid issues,Hormone therapy,Benign
+34,Female,Sister breast cancer,Breast lump,Hypertension,Chemotherapy,Malignant
+39,Female,Aunt ovarian cancer,Nipple discharge,Thyroid issues,Chemotherapy,Malignant
+39,Female,Mother breast cancer,Pain,None,Radiation,Benign
+75,Female,Grandmother breast cancer,Breast lump,Thyroid issues,Surgery,Benign
+35,Female,Sister breast cancer,Lump and fatigue,Diabetes,Radiation,Malignant
+60,Female,Mother breast cancer,Swelling,Thyroid issues,Chemotherapy,Malignant
+67,Female,Grandmother breast cancer,None,Thyroid issues,Surgery,Malignant
+70,Female,Grandmother breast cancer,Lump and fatigue,Thyroid issues,Surgery,Malignant
+48,Female,Sister breast cancer,Skin dimpling,Thyroid issues,Radiation,Benign
