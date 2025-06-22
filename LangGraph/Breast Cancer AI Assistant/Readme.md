@@ -60,7 +60,7 @@ Synthesized Report
 *Multi-agent analysis dashboard showing parallel processing of genomic, imaging, and clinical data*
 
 ### Genomic Analysis Results
-![Genomic Analysis](screenshots/genomic_analysis.png)
+![Genomic Analysis](https://github.com/AmalVinob/Agents/blob/main/LangGraph/Breast%20Cancer%20AI%20Assistant/Screenshot%20(28).png?raw=true)
 *BRCA1/BRCA2 variant analysis with pathogenicity scoring and risk assessment*
 
 ### Imaging Analysis
